@@ -2386,6 +2386,9 @@ var SEMICOLON = SEMICOLON || {};
 		$siStickyEl = $('.si-sticky'),
 		$dotsMenuEl = $('.dots-menu'),
 		$goToTopEl = $('#gotoTop'),
+		$goToChiSiamoEl = $('#gotoChiSiamo'),
+		$goToEventiEl = $('#gotoEventi'),
+			
 		$fullScreenEl = $('.full-screen'),
 		$commonHeightEl = $('.common-height'),
 		$testimonialsGridEl = $('.testimonials-grid'),
